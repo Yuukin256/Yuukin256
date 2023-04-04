@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋.
+
+[![My Skills](https://skillicons.dev/icons?i=ts,python,react,prisma,materialui,vscode)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuukin256)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yuukin256/Yuukin256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
